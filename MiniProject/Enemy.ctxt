@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=x\ y
+comment1.target=Enemy(int,\ int)
+comment2.params=g2d
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=
+comment4.target=java.awt.Image\ getEnemyImage()
+numComments=5

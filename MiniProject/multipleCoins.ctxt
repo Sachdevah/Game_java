@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=multipleCoins
+comment1.params=
+comment1.target=multipleCoins()
+comment2.params=g2d
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ update()
+comment4.params=e
+comment4.target=void\ addCoin(Coin)
+comment5.params=e
+comment5.target=void\ removeCoin(Coin)
+numComments=6
